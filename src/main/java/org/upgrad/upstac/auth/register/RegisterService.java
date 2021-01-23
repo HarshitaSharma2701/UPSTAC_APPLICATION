@@ -12,7 +12,7 @@ import org.upgrad.upstac.users.UserService;
 import org.upgrad.upstac.users.models.AccountStatus;
 import org.upgrad.upstac.users.roles.UserRole;
 
-
+//CHECK
 @Service
 public class RegisterService {
 
