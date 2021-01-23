@@ -22,7 +22,7 @@ public class RegisterService {
 
     private static final Logger log = LoggerFactory.getLogger(RegisterService.class);
 
-
+// Add USER
     public User addUser(RegisterRequest registerRequest) {
 
 
